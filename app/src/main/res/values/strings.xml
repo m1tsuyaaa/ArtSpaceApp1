@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="artwork_title_1">Солнечный день</string>
+    <string name="artwork_artist_1">Иван Иванов (2023)</string>
+    <string name="artwork_title_2">Горный пейзаж</string>
+    <string name="artwork_artist_2">Петр Петров (2021)</string>
+    <string name="artwork_title_3">Абстракция</string>
+    <string name="artwork_artist_3">Анна Смирнова (2024)</string>
+</resources>
